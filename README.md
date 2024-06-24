@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on:  [KTANE manual](https://boumtchack.github.io/KTANE/index.html)    
 
-- 🌱 I’m currently learning **Rails**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://boumtchack.github.io/](https://boumtchack.github.io/)
 
