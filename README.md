@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A former charpenter now building app as a fullstack dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boumtchack&label=Profile%20views&color=0e75b6&style=flat" alt="boumtchack" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boumtchack" alt="boumtchack" /></a> </p>
-
 - 🔭 I’m currently working on:  A secret projet about cooking on ruby on rails
 
 - 🌱 I’m currently learning **Ruby on Rails**
