@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boumtchack" alt="boumtchack" /></a> </p>
 
-- 🔭 I’m currently working on:  [KTANE manual](https://boumtchack.github.io/KTANE/index.html)    
+- 🔭 I’m currently working on:  A secret projet about cooking on ruby on rails
 
-- 🌱 I’m currently learning **Vue.js**
-
-- 👨‍💻 All of my projects are available at [https://boumtchack.github.io/](https://boumtchack.github.io/)
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **haffreinguea@gmail.com**
 
